@@ -1,3 +1,3 @@
 module Mailboxer
-  VERSION = "0.12.4.1"
+  VERSION = "0.12.4.2"
 end
